@@ -1,0 +1,5 @@
+Query:
+What is RAG?
+
+Answer:
+Retrieval-Augmented Generation (RAG) is a technique that combines retrieval and generation processes.
