@@ -1,7 +1,7 @@
 # lab.py
-from mock_llm import call_llm
-from rag_module import retrieve_docs
-from agent_module import execute_action
+from mock_llm_1 import call_llm
+from rag_module_2 import retrieve_docs
+from agent_module_3 import execute_action
 
 def test_prompt_injection(user_input, user_role="user"):
     # Step 1: RAG retrieval
