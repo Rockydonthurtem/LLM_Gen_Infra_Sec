@@ -1,5 +1,0 @@
-Query:
-What is RAG?
-
-Answer:
-Retrieval-Augmented Generation (RAG) is a method that combines retrieval and generation to enhance the capabilities of AI in producing human-like text.
