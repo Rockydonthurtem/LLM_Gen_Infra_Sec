@@ -1,0 +1,23 @@
+Query: Should you invest in renewable energy
+
+Top-k Retrieved Documents:
+
+--- rag_output.txt ---
+Query: What are the benefits of renewable energy?
+
+Top-k Retrieved Documents:
+
+--- document1.txt ---
+Renewable energy sources, such as solar and wind, provide sustainable alternatives to fossil fuels. They reduce greenhouse gas emissions and help mitigate climate change. Additionally, renewable energy can create jobs in manufacturing and installation sectors, supporting economic growth.
+
+--- document2.txt ---
+Solar energy is abundant and can be harnessed almost anywhere. Wind power is highly scalable and can complement solar power in energy grids. Both sources reduce reliance on non-renewable fuels, lowering pollution and contributing to environmental health.
+
+--- document3.txt ---
+Investing in renewable energy infrastructure encourages innovation in energy storage and smart grid technologies. Governments often provide incentives to adopt clean energy solutions, which further accelerates the transition from traditional energy sources.
+
+Generated Answer:
+Renewable energy offers multiple benefits. It provides a sustainable alternative to fossil fuels, reduces greenhouse gas emissions, and helps combat climate change. It also promotes economic growth by creating jobs in manufacturing and installation, encourages technological innovation in energy storage and smart grids, and benefits environmental health through reduced pollution. Solar and wind energy, in particular, are abundant, scalable, and complementary, making them effective solutions for a cleaner energy future.
+
+Generated Answer:
+Based on the provided context, investing in renewable energy can be beneficial. It encourages innovation in energy storage and smart grid technologies, and governments often provide incentives to adopt clean energy solutions. Additionally, it contributes to economic growth and environmental health. However, the decision to invest should also take into account individual financial circumstances and risk tolerance.
